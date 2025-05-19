@@ -18,3 +18,4 @@ I created my personal portfolio webpage using HTML and CSS to showcase my skills
 
 OUTPUT:
 ![Image](https://github.com/user-attachments/assets/c39a63d0-b50d-47e1-93a2-3fddfce3b695)
+![Image](https://github.com/user-attachments/assets/23850b0d-d435-4ece-a287-9e5e4b48d1a3)
